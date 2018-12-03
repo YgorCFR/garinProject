@@ -1,0 +1,168 @@
+
+
+.h2-landing-letters{
+    margin-left: 2%;
+    font-size: 48px;
+    font-weight: 800;
+    font-variant: all-petite-caps;
+    color: #e5c47e;
+    font-family: 'Open Sans', sans-serif;
+}
+
+@media screen and (max-width: 992px){
+    .h2-landing-letters{
+        font-size: 28px;
+        font-weight: 800;
+        font-variant: all-petite-caps;
+        color: #e5c47e;
+        font-family: 'Open Sans', sans-serif;
+    }
+    .landing-button-letters{
+        margin-left: 2%;
+        font-size: 10px;
+        padding-right: 2.5%;
+        padding-left: 2.5%;
+        color: #11212a;
+        text-align: center;
+        font-family: 'Open Sans', sans-serif;
+        background: #e5c47e;
+        border-style: solid;
+        border-radius: 9px;
+        border-color: #11212a;
+        font-weight: 800;
+        font-variant: all-petite-caps;
+    }
+  
+
+}
+@media screen and (max-width: 600px) {
+    .h2-landing-letters{
+        font-size: 18px;
+        font-weight: 800;
+        font-variant: all-petite-caps;
+        color: #e5c47e;
+        font-family: 'Open Sans', sans-serif;
+    }
+    .landing-button-letters{
+        margin-left: 2%;
+        font-size: 10px;
+        padding-right: 2.5%;
+        padding-left: 2.5%;
+        color: #11212a;
+        text-align: center;
+        font-family: 'Open Sans', sans-serif;
+        background: #e5c47e;
+        border-style: solid;
+        border-radius: 9px;
+        border-color: #11212a;
+        font-weight: 800;
+        font-variant: all-petite-caps;
+    }
+ 
+
+}
+
+
+
+
+.covertext {
+    position: absolute;
+    z-index: 1;
+    top: 30%; /* The distance between the div with the top of document */
+    left: 0px; /* Make the div full width */
+    right: 0px; /* Make the div full width */
+  }
+
+.navtext{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 2;
+}
+
+  .title {
+    font-family: Verdana;
+    font-weight: 600;
+    font-size: 60px;
+    color: #ffffff;
+    text-align: center;
+  }
+
+
+
+.landing-button-letters:hover{
+    color: #e5c47e;
+    background: #11212a;
+}
+
+.nav-button{
+    color: white; 
+    top: 0; 
+    position: absolute;
+    margin-left: 20%;
+    font-size: 50%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.landing-button-letters{
+    margin-left: 2%;
+    font-size: 15px;
+    padding-right: 2.5%;
+    padding-left: 2.5%;
+    color: #11212a;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    background: #e5c47e;
+    border-style: solid;
+    border-radius: 9px;
+    border-color: #11212a;
+    font-weight: 800;
+    font-variant: all-petite-caps;
+}
+
+
+
+
+.navbar-style{
+    height: 50px;
+    width: 100%;
+    background-color: black;
+    z-index: 1;
+}
+
+.navbar-content-first{
+    color: white; 
+    top: 0; 
+    position: absolute;
+    margin-left: 20%;
+    font-size: 80%;
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 1.5%;
+}
+
+.section2-style{
+    text-align: center;
+    padding-top: 10%
+}
+
+.section2-title{
+    font-variant: all-petite-caps;
+}
+.section2-content1{
+    margin-bottom: 10%;
+
+}
+
+.section2-style-second{
+    padding-bottom: 8%;
+    padding-top: 8%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.section2-style-second-content{
+    text-align: justify;
+}
+
